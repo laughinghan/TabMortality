@@ -1,0 +1,10 @@
+TabMortality
+
+Kill the Chrome process for tabs that have been inactive for a while
+
+Requires a restart after install (actually it works fine on new tabs created
+after install, and tabs that you focus and then blur after install, just not
+on tabs that have been inactive since before install).
+
+Inspired by, and fancy-settings/ largely copied from, TabMemFree:
+https://github.com/glukki/TabMemFree
